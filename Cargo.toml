@@ -1,0 +1,11 @@
+[package]
+name = "vec-mir-slowdown-issue"
+version = "0.1.0"
+authors = ["supercurio"]
+
+[features]
+resize = []
+extend_from_slice = []
+
+[dependencies]
+time = "*"
